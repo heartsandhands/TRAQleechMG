@@ -1,0 +1,25 @@
+{
+  "name": "TRAQleechMG",
+  "version": "1.0.0",
+  "description": "Api Burner",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heartsandhands/TRAQleechMG.git"
+  },
+  "author": "Lawrence Fishburne",
+  "license": "ADS",
+  "bugs": {
+    "url": "https://github.com/heartsandhands/TRAQleechMG/issues"
+  },
+  "homepage": "https://github.com/heartsandhands/TRAQleechMG#readme"
+}
